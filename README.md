@@ -1,1 +1,2 @@
-# seoul_weather
+### seoul_weather
+ - which collects data of Seoul's weather!
